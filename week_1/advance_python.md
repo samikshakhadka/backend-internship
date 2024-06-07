@@ -140,4 +140,6 @@ print("Using lambda function, cube:", lambda_cube(5))
  - [https://www.geeksforgeeks.org/multithreading-python-set-1/](https://www.geeksforgeeks.org/multithreading-python-set-1/)
  - [https://www.geeksforgeeks.org/multithreading-python-set-1/](https://www.geeksforgeeks.org/multithreading-python-set-1/)
 
+** Meta Class **
+- research by intern
 
